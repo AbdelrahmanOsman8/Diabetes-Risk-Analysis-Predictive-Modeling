@@ -1,0 +1,14 @@
+{
+    "train": {
+        "accuracy": 0.9498,
+        "precision": 0.7701,
+        "recall": 0.9649,
+        "f1_score": 0.8308
+    },
+    "test": {
+        "accuracy": 0.9123,
+        "precision": 0.6951,
+        "recall": 0.897,
+        "f1_score": 0.7476
+    }
+}
